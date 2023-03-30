@@ -103,7 +103,7 @@ outline: none;
 outline: 1px solid #4285f4;
 }
 
-@keyframes circle {
+/* @keyframes circle {
 from {
 transform: translateX(-50%) rotate(0deg) translateX(50px) rotate(0deg);
 }
@@ -119,7 +119,7 @@ transform: translateX(100px);
 to {
 transform: translateX(-100px);
 }
-}
+} */
 .view-button {
     background: #fff;
     border-radius: 4px;
